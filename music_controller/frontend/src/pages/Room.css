@@ -1,0 +1,23 @@
+.room {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    text-align: center;
+}
+
+.room p {
+    color: #fff;
+    margin-bottom: 1.2rem;
+}
+
+.settings {
+    text-align: center;
+}
+
+.room .setting {
+    position: absolute;
+    top: 1.6rem;
+    right: 4rem;
+}

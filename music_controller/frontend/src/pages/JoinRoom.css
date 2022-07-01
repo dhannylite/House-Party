@@ -1,0 +1,16 @@
+.join {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.join h1 {
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.join-btn {
+    margin: 1rem 0;
+}

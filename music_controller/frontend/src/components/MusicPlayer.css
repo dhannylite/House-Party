@@ -1,0 +1,44 @@
+.card {
+    /* display: flex; */
+    /* align-items:  center; */
+    box-shadow: 0 0 30px rgba(0,0,0,.25);
+    border-radius: 11px;
+    overflow: hidden;
+    gap: 4rem;
+    width: 40rem;
+    padding: 1rem 1.4rem;
+    margin-bottom: 1rem;
+    color: #d7d7d7;
+}
+
+.card-img-box {
+    width: 100%;
+    height: 25rem;
+}
+
+.card-img-box img {
+    width: 100%;
+    height: 25rem;
+}
+
+.content {
+    flex: 1;
+}
+
+h5 {
+    margin-bottom: 1rem;
+}
+
+h6 {
+    margin-bottom: 1rem;
+}
+
+.content .btn {
+    margin-bottom: 1.6rem;
+    color: white;
+    margin-right: 1rem;
+}
+
+.votes {
+    margin-bottom: 1rem;
+}
